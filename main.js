@@ -31,21 +31,21 @@ var plot = [
         "bgColor": "./assets/bcg_office2.jpg",
         "leftImage": null,
         "rightImage": "./assets/s1.png",
-        "speaker": "Сергей(<i>улыбаясь</i>)",
+        "speaker": "Сергей(улыбаясь)",
         "text": "Что за две роскошные тигрицы? Рядом в зоопарке опять забыли закрыть ворота?"
     },
     {
         "bgColor": "./assets/bcg_office2.jpg",
         "leftImage": null,
         "rightImage": "./assets/s1.png",
-        "speaker": "Сергей(<i>флиртующе улыбаясь</i>)",
+        "speaker": "Сергей(флиртующе улыбаясь)",
         "text": "Настя, привет. Как всегда прекрасно вглядишь"
     },
     {
         "bgColor": "./assets/bcg_office2.jpg",
         "leftImage": "./assets/an2.png",
         "rightImage": null,
-        "speaker": "Настя<i>(сухо)</i>",
+        "speaker": "Настя(сухо)",
         "text": "Привет"
     },
     {
@@ -115,7 +115,7 @@ var plot = [
         "bgColor": "./assets/portal.png",
         "leftImage": "./assets/an2.png",
         "rightImage": null,
-        "speaker": "Настя<i>(милым и дрожащим голосом)</i>",
+        "speaker": "Настя(милым и дрожащим голосом)",
         "text": "Спасите"
     },
     {
@@ -157,7 +157,7 @@ var plot = [
         "bgColor": "./assets/crash_office.png",
         "leftImage": null,
         "rightImage": "./assets/s1.png",
-        "speaker": "Сергей <i>(с гневом)</i>",
+        "speaker": "Сергей (с гневом)",
         "text": "Проклятие!"
     },
     {
@@ -199,7 +199,7 @@ var plot = [
         "bgColor": "./assets/crash_office.png",
         "leftImage": null,
         "rightImage": "../assets/fr2.png",
-        "speaker": "Вика <i>(испугано)</i>",
+        "speaker": "Вика (испугано)",
         "text": "Что происходит? Что это было?"
     },
     {
@@ -213,7 +213,7 @@ var plot = [
         "bgColor": "./assets/crash_office.png",
         "leftImage": null,
         "rightImage": "./assets/s1.png",
-        "speaker": "Сергей <i>(с решимостью)</i>",
+        "speaker": "Сергей (с решимостью)",
         "text": "Настя, я не оставлю тебя в руках этих тварей. Мир демонов, держись."
     },
     {
@@ -262,7 +262,7 @@ var plot = [
         "bgColor": "./assets/crash_office.png",
         "leftImage": null,
         "rightImage": "./assets/s1_mainlook.png",
-        "speaker": "Сергей <i>(мысленно)</i>",
+        "speaker": "Сергей (мысленно)",
         "text": "Настя, я обязательно найду тебя."
     },
     {
@@ -273,15 +273,316 @@ var plot = [
         "text": "Портал закрывается, и Сергей исчезает в неизведанных просторах мира демонов, полный решимости спасти свою подругу и покончить с этим кошмаром."
     },
     {
-        "bgColor": "./assets/bcg_office2.jpg",
+        "bgColor": "./assets/sp.png",
         "leftImage": null,
         "rightImage": null,
         "speaker": null,
-        "text": "Продолжение уже скоро... Буду Благодарен за отзыв об игре. Можете поблагодарить разработчика теплыми словами)))"
+        "text": "ГЛАВА 2"
     },
-
+    {
+        "bgColor": "./assets/sp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Бариот, переступив порог портала, оказывается в темном мире демонов. Бариот начинает свой путь через темные и давящие просторы, направляясь к таинственной пещере, которая находилась впереди. Когда он приходит в пещеру, из темноты выходит огромный демон, выражение которого олицетворяет абсолютное зло."
+    },
+    {
+        "bgColor": "./assets/intro_sp.png",
+        "leftImage": null,
+        "rightImage": './assets/demon2.png',
+        "speaker": 'Демон',
+        "text": "Кто это тут у нас? Свежее мясо? Обожаю человечинку"
+    },
+    {
+        "bgColor": "./assets/intro_sp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Бой начинается, и Бариот применяет свои магические навыки, пытаясь противостоять демону."
+    },
+    {
+        "bgColor": "./assets/intro_sp.png",
+        "leftImage": null,
+        "rightImage": './assets/demon2.png',
+        "speaker": 'Демон',
+        "text": "Ты думаешь, что сможешь противостоять мне, смертный?"
+    },
+    {
+        "bgColor": "./assets/intro_sp.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Я пришел не за тобой, у меня нет времени на тебя."
+    },
+    {
+        "bgColor": "./assets/intro_sp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Битва продолжается, но демон оказывается сильным противником. В какой-то момент Бариот начинает проигрывать, и кажется, что надежда утрачена..."
+    },
+    {
+        "bgColor": "./assets/intro_sp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Но в этот момент внезапно появляется леприкон. Он направляет свою магию против демона, временно парализуя его."
+    },
+    {
+        "bgColor": "./assets/intro_sp.png",
+        "leftImage": "./assets/lep.png",
+        "rightImage": null,
+        "speaker": 'Леприкон(с насмешкой)',
+        "text": "Ты что уже выдохся?"
+    },
+    {
+        "bgColor": "./assets/intro_sp.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "У меня все идет по плану. Я только разминался, но раз ты здесь, то не буду забирать все веселье. Можешь присоединиться, я не буду против"
+    },
+    {
+        "bgColor": "./assets/intro_sp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Совместными усилиями Бариот и леприкон атакуют демона, и, наконец, они побеждают. Демон исчезает в темных тенях, а пещера становится тихой."
+    },
+    {
+        "bgColor": "./assets/intro_sp.png",
+        "leftImage": "./assets/lep.png",
+        "rightImage": null,
+        "speaker": 'Леприкон',
+        "text": "Я нашел, где держат Настю. Это место окружено сильной магией демонов. Будь осторожен, туда попасть не просто."
+    },
+    {
+        "bgColor": "./assets/intro_sp.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Перенеси меня туда. Я готов рискнуть..."
+    },
+    {
+        "bgColor": "./assets/intro_sp.png",
+        "leftImage": "./assets/lep.png",
+        "rightImage": null,
+        "speaker": 'Леприкон(перебивая)',
+        "text": "Не получится. Я потратил все энергию на заклинание."
+    },
+    {
+        "bgColor": "./assets/intro_sp.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Эхх... Ладно, показывай дорогу. Доберемся туда без помощи магии."
+    },
+    {
+        "bgColor": "./assets/intro_sp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Собравшись силами после схватки с демоном, они встают и начинают свой путь к месту заточения Насти."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "НЕКОТОРОЕ ВРЕМЯ СПУСТЯ..."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "И так, они движутся дальше, обсуждая свой план и готовясь к последующим испытаниям. Пока они идут, леприкон рассказывает Бариоту о колдуне, который может помочь им в победе над главным демоном, и о том, что им предстоит путешествие глубоко в лес."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": "./assets/lep.png",
+        "rightImage": null,
+        "speaker": 'Леприкон',
+        "text": "Эй, Бариот! Ну, наверное, самое время спросить о том, почему ты вот так решился на это дело? Ты же понимаешь, что это почти самоубийство? Шансов на успех не так уж и много."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "А, не сейчас... Это не момент для философии."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": "./assets/lep.png",
+        "rightImage": null,
+        "speaker": 'Леприкон',
+        "text": " Ага, я понимаю. Но ты же не думаешь, что я просто оставлю этот вопрос? Ну, что, расскажи, в чем подвох? К тому же, идти нам еще очень долго."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот(вздыхает)',
+        "text": "Настя... Это сложно объяснить."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": './assets/lep.png',
+        "rightImage": null,
+        "speaker": 'Леприкон(злобно)',
+        "text": "Подожди... Так ради этого ты меня тогда призывал в кинотеатре?Чтоб поразить?"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот(неловко)',
+        "text": "..."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Я надеялся на более эффектное появление...Прости"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": './assets/lep.png',
+        "rightImage": null,
+        "speaker": 'Леприкон(злобно)',
+        "text": "'Прости'. Да у меня до сих пор шрам на лбу от той монетки"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": './assets/lep.png',
+        "rightImage": null,
+        "speaker": 'Леприкон(злобно)',
+        "text": "Лално, это мы потом еще обсудим, когда всё это кончится"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": './assets/lep.png',
+        "rightImage": null,
+        "speaker": 'Леприкон',
+        "text": "И давно у тебя эти чувства?"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Сложно сказать..."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Подобные чувства не появляются на поверхности. Они возникают мгновенно, где-то глубоко внутри. Оставаясь там невидимыми долгое время они усиливаются, используя восхитительную энергию..."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Но потом наступает момент..."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Момент, после которого весь привычный мир меняется. И те чувства, что были незамеченными и скрытыми, начинают проявляться. Они начинают наполнять тебя энергией, которая одновременно вдохновляет и опустошает тебя"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот(смеясь)',
+        "text": "Также они побуждают делать странные глупости..."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": './assets/lep.png',
+        "rightImage": null,
+        "speaker": 'Леприкон',
+        "text": "А что это за 'энергия'?"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот(смеясь)',
+        "text": "О это потрясающая энергия. Она излучается ярким ослепительным светом ее взгляда. И этот свет завораживает, притягивает тебя. С ним уже не хочеться расставаться..."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": './assets/lep.png',
+        "rightImage": null,
+        "speaker": 'Леприкон',
+        "text": "Звучит все это слишком сладко, И как говорят в вашем мире, это называется влюбиться "
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "'в нашем мире'?"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "мне нужно поменьше знакомить тебя с нашим миром"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": './assets/lep.png',
+        "rightImage": null,
+        "speaker": 'Леприкон',
+        "text": "твои это мир или мой - неважно. Любовные чувства они везде одинаковые. У нее везде общие признаки и общие симптомы"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "О, смотри! Там впереди"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Вдруг они увидели в далеке небольшую деревушку. Они шли уже достаточно долго и надеялись переночевать в этом месте..."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "ГЛАВА 3 НАХОДИТСЯ В РАЗРАБОТКЕ... Также хотим сказать, что вы играете в единственную в мире настолько интерактивную игру, что вы сами можете построить сюжет..."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "И поэтому наша команда разработчиков приглашает вас на мини-свидание в эти выходные. В него входит два билета в кино, вкусный кофе, сладкие разговоры..."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "От нас мы отправим главного разработчика, он с радостью обсудит все нюансы игры. Да, порой он может выкинуть что-то странное, но у него есть кнопка выключения на шее, как у котят(но мы этого не говорили:) ). Ответ напишите в телеграмме"
+    },
 ]
-
+    
+    
 
 let main = document.querySelector('.background')
 
@@ -290,7 +591,7 @@ let main = document.querySelector('.background')
 
 const start = function() {
 
-    var i = 0
+    var i = 39
     render = `
             <div class="dialog-box" id="dialogBox">
                 
