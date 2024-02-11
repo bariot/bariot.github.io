@@ -31,21 +31,21 @@ var plot = [
         "bgColor": "./assets/bcg_office2.jpg",
         "leftImage": null,
         "rightImage": "./assets/s1.png",
-        "speaker": "Сергей(улыбаясь)",
+        "speaker": "Сергей(<i>улыбаясь</i>)",
         "text": "Что за две роскошные тигрицы? Рядом в зоопарке опять забыли закрыть ворота?"
     },
     {
         "bgColor": "./assets/bcg_office2.jpg",
         "leftImage": null,
         "rightImage": "./assets/s1.png",
-        "speaker": "Сергей(флиртующе улыбаясь)",
+        "speaker": "Сергей(<i>флиртующе улыбаясь</i>)",
         "text": "Настя, привет. Как всегда прекрасно вглядишь"
     },
     {
         "bgColor": "./assets/bcg_office2.jpg",
         "leftImage": "./assets/an2.png",
         "rightImage": null,
-        "speaker": "Настя(сухо)",
+        "speaker": "Настя<i>(сухо)</i>",
         "text": "Привет"
     },
     {
@@ -115,7 +115,7 @@ var plot = [
         "bgColor": "./assets/portal.png",
         "leftImage": "./assets/an2.png",
         "rightImage": null,
-        "speaker": "Настя(милым и дрожащим голосом)",
+        "speaker": "Настя<i>(милым и дрожащим голосом)</i>",
         "text": "Спасите"
     },
     {
@@ -157,7 +157,7 @@ var plot = [
         "bgColor": "./assets/crash_office.png",
         "leftImage": null,
         "rightImage": "./assets/s1.png",
-        "speaker": "Сергей (с гневом)",
+        "speaker": "Сергей <i>(с гневом)</i>",
         "text": "Проклятие!"
     },
     {
@@ -199,7 +199,7 @@ var plot = [
         "bgColor": "./assets/crash_office.png",
         "leftImage": null,
         "rightImage": "../assets/fr2.png",
-        "speaker": "Вика (испугано)",
+        "speaker": "Вика <i>(испугано)</i>",
         "text": "Что происходит? Что это было?"
     },
     {
@@ -213,7 +213,7 @@ var plot = [
         "bgColor": "./assets/crash_office.png",
         "leftImage": null,
         "rightImage": "./assets/s1.png",
-        "speaker": "Сергей (с решимостью)",
+        "speaker": "Сергей <i>(с решимостью)</i>",
         "text": "Настя, я не оставлю тебя в руках этих тварей. Мир демонов, держись."
     },
     {
@@ -262,7 +262,7 @@ var plot = [
         "bgColor": "./assets/crash_office.png",
         "leftImage": null,
         "rightImage": "./assets/s1_mainlook.png",
-        "speaker": "Сергей (мысленно)",
+        "speaker": "Сергей <i>(мысленно)</i>",
         "text": "Настя, я обязательно найду тебя."
     },
     {
@@ -559,26 +559,914 @@ var plot = [
         "speaker": null,
         "text": "Вдруг они увидели в далеке небольшую деревушку. Они шли уже достаточно долго и надеялись переночевать в этом месте..."
     },
+
     {
         "bgColor": "./assets/road.png",
         "leftImage": null,
         "rightImage": null,
         "speaker": null,
-        "text": "ГЛАВА 3 НАХОДИТСЯ В РАЗРАБОТКЕ... Также хотим сказать, что вы играете в единственную в мире настолько интерактивную игру, что вы сами можете построить сюжет..."
+        "text": "ГЛАВА 3"
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "ТЕМ ВРЕМЕНЕМ, ГДЕ-ТО В ДОЛИНЕ СМЕРТИ ДЕМОНЫ ПРИНЕСЛИ НАСТЮ В ЛОГОВО РАЗБОЙНИКОВ..."
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Все это время, пока демоны несли Настю, она была без сознания, полностью обессиленная и неспособная сопротивляться. Демоны несли ее через мрачные пещеры, пока не достигли логова разбойников."
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Демон, возвышаясь над разбойниками своей устрашающей фигурой, угрожающе заговорил:"
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": './assets/demon2.png',
+        "rightImage": null,
+        "speaker": "Демон",
+        "text": "Заберите девчонку."
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": './assets/demon2.png',
+        "rightImage": null,
+        "speaker": "Демон",
+        "text": "Держите её в заточении и ни в коем случае не позволяйте ей уйти. Она важна для нашей миссии, и я хочу, чтобы она оставалась под вашим контролем."
+    },
+    
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Разбойники, подавленные могуществом демона, кивнули, принимая его указания. Им было ясно, что игнорировать приказ было бы опасно для них самих."
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Разбойники взяли Настю под руки и повели вглубь логова, в темницу."
+    },
+
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Постепенно, чувствуя, как возвращается сознание, Настя пыталась осмыслить происходящее. Мысли неуклюже боролись за призрачную ясность."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/an2.png",
+        "rightImage": null,
+        "speaker": "Настя",
+        "text": "Где я?"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Настя вздрогнула, почувствовав прикосновение холодной металлической цепи к запястьям. Она оказалась связана, беззащитна перед темными силами, которые захватили ее."
+    },
+
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Взглянув вокруг, она обнаружила себя в глубокой темноте, окруженной странными фигурами. "
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Это были разбойники, одетые в потрепанные кожаные доспехи и мрачные плащи, украшенные различными нарисованными демоническими символами. "
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "На их лицах отражается жестокость и хитрость, а взгляды исподлобья говорят о безжалостности и опасности."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Некоторые из них имеют шрамы и раны, свидетельствующие о беспощадных схватках. Они ходят с оружием на поясах и в руках, всегда готовые к бою."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Вдруг прозвучал грубый голос среди тьмы."
+    },
+
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": "./assets/robber.png",
+        "speaker": "Разбойник(смеясь)",
+        "text": "Ты проснулась, принцесса?"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/an2.png",
+        "rightImage": null,
+        "speaker": "Настя",
+        "text": "Кто вы? Что это за место?"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Настя постаралась сохранить спокойствие, хотя сердце ее билось как колокол."
+    },
+
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": "./assets/robber.png",
+        "speaker": "Разбойник(смеясь)",
+        "text": "Здесь ты - наш пленник. И нам лучше, чтобы ты держалась спокойно. Мы не собираемся рисковать из-за тебя"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "После того как разбойники покинули темницу, Настя начала осматривать свою темницу. Она ощущала какое-то странное присутствие, словно кто-то наблюдал за ней из тени."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Её взгляд падал на каждый уголок темной комнаты, и вдруг её внимание привлекло движение в углу. Поначалу, она не могла рассмотреть. Но чем дольше она смотрела, тем яснее становилось, что там находятся два маленьких силуэта."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Настя приблизилась и разглядела двух детей, мальчика и девочку, сидящих в углу, охваченных страхом и неопределенностью."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Они были напуганы. Когда их взгляды пересеклись, в пространстве воцарило глубокое молчание, словно каждый пытался понять, кто они и что произошло."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Настя медленно подошла к ним, устремив на них взгляд полный сочувствия и решимости."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/an2.png",
+        "rightImage": null,
+        "speaker": "Настя(с нежностью в голосе)",
+        "text": "Эй, вы там, все в порядке? Не бойтесь, я не причиню вам вреда."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/an2.png",
+        "rightImage": null,
+        "speaker": "Настя (приближаясь поближе)",
+        "text": "Как вас зовут? Я Настя."
+    },
+
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": "./assets/child.png",
+        "speaker": "Девочка (неуверенно)",
+        "text": "Я... Я Джейн, а это мой брат Тимми."
+    },
+
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/an2.png",
+        "rightImage": null,
+        "speaker": "Настя (улыбаясь)",
+        "text": "Рада познакомиться, Джейн, Тимми. Не волнуйтесь, мы найдем способ выбраться отсюда."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Настя, внимательно осматривая их, заметила небольшие синяки на их коже, но ничего критического не обнаружила. Она вздохнула с облегчением, зная, что их телесное состояние не вызывает беспокойства. Однако, вид их напуганных глаз заставил её сердце сжаться от сострадания."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Настя, испытывая искреннее сочувствие к этим детям, приблизилась и нежно обняла их, словно старшая сестра, которая старается утешить своих младших братьев и сестер."
+    },
+  
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/an2.png",
+        "rightImage": null,
+        "speaker": "Настя (ласково)",
+        "text": "Всё будет хорошо, ребята. Я здесь с вами. Мы вместе найдем выход из этой ситуации."
+    },  
+    {
+        "bgColor": "./assets/vil.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "ГЛАВА 4"
+    },
+    {
+        "bgColor": "./assets/vil.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Бариот и Леприкон, продвигаясь сквозь темный лес, наконец выходят к деревне. И чем ближе они подходили к деревне, тем отчетливее понимали, что впереди беда. "
+    }, 
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Когда они зашли в деревню, взгляды Бариота и Леприкона остановились на улице, устланной разбитыми обломками, пламенеющими оконными рамами и обугленными деревьями. Страшное молчание висело в воздухе, только иногда прерываемое стонами и вскриками. Горе и страх висели в воздухе, словно невидимые тучи грозы, нависшие над страдающей деревней."
+    },
+     
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": "./assets/lep.png",
+        "rightImage": null,
+        "speaker": "Леприкон(шепотом)",
+        "text": "Что здесь произошло?"
+    },
+     
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Его голос звучал тихо, но взгляд был полон тревоги."
+    },
+     
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Они осторожно начали пробираться сквозь развалины, остерегаясь возможной опасности."
+    },
+
+     
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Внезапно, в переливах сумеречного света, они различают темные фигуры. Это были разбойники. У них были странные татуировки, светившиеся бледным светом. Татуировки представляли собой изогнутые змеиные узоры, покрытые мистическими символами."
+    },
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот(шепотом)',
+        "text": "Смотри. Эти татуировки... они связаны с демонической магией."
+    },
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Леприкон кивнул, его глаза пристально следили за каждым движением разбойников."
+    },
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": "./assets/lep.png",
+        "rightImage": null,
+        "speaker": "Леприкон",
+        "text": "Они, должно быть, имеют связь с теми, кто стоит за нападением на эту деревню. Мы должны быть осторожны и не попасться им в ловушку."
+    },
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Подбираясь ближе к группе разбойников, Бариот и Леприкон начали обсуждать план действий."
+    },
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот(шепотом)',
+        "text": "Нам нужно быть осторожными. Их слишком много. Еще эти странные символы... Неизвестно какие силы таит в себе эта магия."
+    },
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": "./assets/lep.png",
+        "rightImage": null,
+        "speaker": "Леприкон(шепотом)",
+        "text": "Согласен. Нам нужно атаковать внезапно, чтобы не дать им шанс использовать свои заклинания."
+    },
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот(шепотом)',
+        "text": "Как твои силы? Уже вернулись?"
+    },
+
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": "./assets/lep.png",
+        "rightImage": null,
+        "speaker": "Леприкон(шепотом)",
+        "text": "На одно заклинание меня еще хватит"
+    },
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Бариот кивнул в знак согласия, и они продолжили приближаться, стремясь найти подходящий момент для нападения. Внимательно наблюдая за разбойниками, они пытались выявить слабые места в их обороне, готовясь к решающему удару."
+    },
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "С моментальной решимостью, Леприкон резко выскочил из укрытия, направляя потоки света к разбойникам, используя свои магические навыки для использования чарующего заклятия оцепенения."
+    },
+
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "В то же время, Бариот, воспользовавшись моментом неподготовленности, внезапно набросился на врагов, направляя мощные всплески магии в их сторону. Молниеносное нападение застало разбойников врасплох, лишив их возможности эффективно отразить атаку."
+    },
+
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "И через мгновение враги были повержены..."
+    },
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Пока Бариот и Леприкон переводили дух после успешного нападения, внезапно из темноты появились еще двое разбойников. Они появились так непредсказуемо, что герои едва успели оглянуться, как уже оказались втянутыми  в новое сражение. "
+    },
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Бариот, едва сохраняя свои последние силы после успешного нападения, вздохнул и приподнялся, готовясь к новой угрозе."
+    },
+
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Еще двое? Ну что ж, похоже, что наша битва еще не окончена."
+    },
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": "./assets/lep.png",
+        "rightImage": null,
+        "speaker": "Леприкон",
+        "text": "Да, похоже, они не поняли, с кем имеют дело. Давай покажем им, что мы еще можем."
+    },
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Снова вспыхнувший бой был коротким, но напряженным. Через несколько мгновений разбойники лежали рассеянными по земле, недееспособные после жесткой схватки."
+    },
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Бариот, опустив руки, выдохнул с облегчением, ощущая усталость, которая окутывала его после битвы."
+    },
+   {
+        "bgColor": "./assets/invil.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Надеюсь, это было последние?"
+    },
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Как вдруг из темного полуразрушенного дома раздался треск и, в дверном проеме начала вырисовываться фигура. Бариот, ожидая новой напасти, направил свои меч в сторону опасности, но это оказалось лишним. В дверях появилась пожилая женщина..."
+    },
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": './assets/women.png',
+        "rightImage": null,
+        "speaker": 'Женщина',
+        "text": "Благодарю вас, добрые господа, за вашу помощь. Вы пришли как посланные с небес, в самый нужный момент."
+    },
+    {
+         "bgColor": "./assets/invil.png",
+         "leftImage": null,
+         "rightImage": './assets/s1_mainlook.png',
+         "speaker": 'Бариот',
+         "text": "Мы рады, что смогли помочь. Но что произошло здесь? Кто эти разбойники и что они хотят?"
+     },
+
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": './assets/women.png',
+        "rightImage": null,
+        "speaker": 'Женщина',
+        "text": "Это группа зловещих разбойников, известных как 'Пламя Адского Ордена'. Они пришли из темных ущелий, несущие с собой магию демонов и хаос. Они жаждут власти и злобы, их единственная цель - уничтожение и порабощение."
+    },
+
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": "./assets/lep.png",
+        "rightImage": null,
+        "speaker": "Леприкон",
+        "text": "И что они хотят от этой деревни?"
+    },
+
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": './assets/women.png',
+        "rightImage": null,
+        "speaker": 'Женщина',
+        "text": "Они ищут пленников, чтобы принести в жертву демонам. Мой муж был одним из их жертв, похищенным на прошлой неделе. Они увозят их в темные леса, откуда пока никто не возвращался живым."
+    },
+
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": './assets/women.png',
+        "rightImage": null,
+        "speaker": 'Женщина',
+        "text": "Помимо своей жажды крови, разбойники ищут амулет, который мой муж нашел в лесу недалеко отсюда. Этот амулет обладает невероятной таинственной силой."
+    },
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": './assets/women.png',
+        "rightImage": null,
+        "speaker": 'Женщина',
+        "text": "Он хранится в храме нашей деревни, но никто из нас не может воспользоваться его мощью. На нем лежит магия и, когда обычный человек пытается использовать его, то сразу же теряет сознание"
+    },
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": './assets/women.png',
+        "rightImage": null,
+        "speaker": 'Женщина',
+        "text": "Возможно, он поможет вам!"
+    },
+
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Так, нам нужно выяснить, куда они увели пленников. Возможно, они могут вести нас к месту, где держат Настю."
+    },
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "И нам нужно взглянуть на это амулет? Возможно, он может помочь нам в борьбе с разбойниками и демонами"
+    },
+
+    {
+        "bgColor": "./assets/invil.png",
+        "leftImage": './assets/women.png',
+        "rightImage": null,
+        "speaker": 'Женщина',
+        "text": "Будьте осторожны, мои доблестные герои. Темные силы пленят каждого, кто дерзнет встать у них на пути."
+    },
+
+    {
+        "bgColor": "./assets/monvil.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Утром, когда первые лучи солнца проникали сквозь тучи, Бариот и Леприкон покинули уют дома женщины, намереваясь отправиться к храму за амулетом."
+    },
+    {
+        "bgColor": "./assets/monvil.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Подойдя к храму, они увидели, что двери открыты. Внутри было тихо, словно сам храм ждал их прибытия. Стараясь не издавать лишнего шума, они вошли внутрь и направились к алтарю, где должен был храниться амулет."
+    },
+
+    {
+        "bgColor": "./assets/inch.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Будь на чеку"
+    },
+    {
+        "bgColor": "./assets/inch.png",
+        "leftImage": "./assets/lep.png",
+        "rightImage": null,
+        "speaker": "Леприкон",
+        "text": "Понял. Но кажется, что мы здесь одни."
+    },
+    {
+        "bgColor": "./assets/inch.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Они подошли к алтарю, где лежал амулет – предмет, который мог изменить их судьбу и исход борьбы с тьмой. С осторожностью Бариот поднял амулет с алтаря и ощутил странную, но могущественную энергию, исходящую от него."
+    },
+    {
+        "bgColor": "./assets/inch.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Этот амулет – ключ к нашей победе. Давай заберем его и поторопимся отсюда."
+    },
+    {
+        "bgColor": "./assets/inch.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Пока Бариот и Леприкон стояли у алтаря, взяв амулет, из тени в углу храма медленно вышел старый монах. Его одежда была изношенной, а лицо усталым."
+    },
+    {
+        "bgColor": "./assets/inch.png",
+        "leftImage": "./assets/mon.png",
+        "rightImage": null,
+        "speaker": "Монах",
+        "text": "Слава вам, благородные путешественники. Вижу, вы смогли взять амулет. Неногие способны даже прикоснуться к нему."
+    },
+    {
+        "bgColor": "./assets/inch.png",
+        "leftImage": "./assets/mon.png",
+        "rightImage": null,
+        "speaker": "Монах",
+        "text": "Этот предмет несет в себе не только силу, но и огромную тайну."
+    },
+    {
+        "bgColor": "./assets/inch.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Да, мудрец. Мы нуждаемся в вашем знании, чтобы разгадать эту тайну. Можете ли вы помочь нам?"
+    },
+    {
+        "bgColor": "./assets/inch.png",
+        "leftImage": "./assets/mon.png",
+        "rightImage": null,
+        "speaker": "Монах",
+        "text": "Знание о природе амулета убрано в древних текстах, которые хранятся у монаха-отшельника. Он живет глубоко в лесу, в заброшенном храме. Он может дать вам больше ответов, чем я."
+    },
+    {
+        "bgColor": "./assets/inch.png",
+        "leftImage": "./assets/mon.png",
+        "rightImage": null,
+        "speaker": "Монах",
+        "text": "Будьте осторожны, путь туда опасен."
+    },
+    {
+        "bgColor": "./assets/inch.png",
+        "leftImage": "./assets/lep.png",
+        "rightImage": null,
+        "speaker": "Леприкон",
+        "text": "Благодарим вас за вашу помощь. Мы отправимся к этому монаху и узнаем все, что нужно."
+    },
+    {
+        "bgColor": "./assets/inch.png",
+        "leftImage": "./assets/mon.png",
+        "rightImage": null,
+        "speaker": "Монах",
+        "text": " Пусть свет сопровождает вас в этом деле, благородные путешественники. Пусть мудрость вашего сердца осветит путь."
     },
     {
         "bgColor": "./assets/road.png",
         "leftImage": null,
         "rightImage": null,
         "speaker": null,
-        "text": "И поэтому наша команда разработчиков приглашает вас на мини-свидание в эти выходные. В него входит два билета в кино, вкусный кофе, сладкие разговоры..."
+        "text": "Покидая храм, герои направились к глубокому лесу, где, как им сказал монах, обитал древний мудрец. Солнце медленно скрывалось за вершинами деревьев, окружая лес светом золотистого сумрака."
+    },
+
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "ГЛАВА 5"
     },
     {
         "bgColor": "./assets/road.png",
         "leftImage": null,
         "rightImage": null,
         "speaker": null,
-        "text": "От нас мы отправим главного разработчика, он с радостью обсудит все нюансы игры. Да, порой он может выкинуть что-то странное, но у него есть кнопка выключения на шее, как у котят(но мы этого не говорили:) ). Ответ напишите в телеграмме"
+        "text": "ПУТЬ К ХРАМУ..."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "После того как Бариот и Леприкон получили информацию о монахе, способном объяснить природу амулета, они направились вглубь леса. Вокруг них были лишь темные деревья, раскачивающиеся на ветру, и плотная листва, скрывающая небо."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Они шли молча, каждый был поглощен своими мыслями. Вдруг Леприкон нарушил молчание, глядя на задумчивое лицо Бариота"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": "./assets/lep.png",
+        "rightImage": null,
+        "speaker": "Леприкон",
+        "text": "Что случилось, Бариот?"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Все в порядке..."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": "./assets/lep.png",
+        "rightImage": null,
+        "speaker": "Леприкон",
+        "text": "Я вижу, что что-то тебя беспокоит? "
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Мне не дают покоя слова монаха. И этот амулет... Он как будто призывает меня. Словно у нас уже была связь до того, как я дотронулся до него"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": "./assets/lep.png",
+        "rightImage": null,
+        "speaker": "Леприкон(нахмурился)",
+        "text": "Согласен. Это странно. Но я думаю, что мы найден ответы в том месте, куда мы направляемся."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": "./assets/lep.png",
+        "rightImage": null,
+        "speaker": "Леприкон",
+        "text": "Эй, Бариот. Я все хотел узнать, где ты научился использовать магию и так виртуозно владеть мечом? Ведь в вашем мире магии нет"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Да, ты прав. В моем мире магии не было. Но все изменилось в один день..."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Когда я был мальчишкой, однажды вечером я нашел котенка, заблудившегося в нашем дворе. Он был маленьким и беспомощным, и я решил его приютить. Я назвал его Яшей"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": "./assets/lep.png",
+        "rightImage": null,
+        "speaker": "Леприкон",
+        "text": "О, я люблю котов. Они такие пушистые и мягкие... И что произошло дальше?"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Мы стали неразлучными друзьями. Я заботился о нем, мы проводили много времени вместе. Но однажды, когда я повел его на прогулку, он пропал..."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": "./assets/lep.png",
+        "rightImage": null,
+        "speaker": "Леприкон",
+        "text": "Пропал? Что случилось?"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Я решил отпустить его побегать по лужайке. Хотел, чтобы он почувствовал, что такое свобода... и через какое-то время, я обернулся, а его уже нигде нет"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Я искал его всюду, но не мог найти. Мои мир погрузился в уныние..."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Однажды, когда я возвращался со школы, я вдруг почувствовал как реальность вокруг меня искажается и, уже через мгновенье я вдруг оказался в странном месте, непохожим на обычное место."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": "./assets/lep.png",
+        "rightImage": null,
+        "speaker": "Леприкон",
+        "text": "И что ты там увидел?"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Это был храм. Его стены, сложенные из массивных каменных блоков, словно хранили тысячелетние секреты и истории. Вход в храм был украшен узорами и резьбой, которые казались воплощением древних символов и мистических образов."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Он был пропитан атмосферой древности и таинственности."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "По центру храма возвышался алтарь, украшенный драгоценными камнями и золотом. На алтаре стоял трон, на котором сидел монах в капюшоне. "
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Это, конечно, странно, но в тот момент я не почувствовал ни чувства страха, ни чувства опасности."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Монах подошел ко мне и, когда он снял капюшон, я узнал это лицо..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": './assets/cat.png',
+        "rightImage": null,
+        "speaker": 'Яша(радостно)',
+        "text": "Ну здраствуй! Давно не виделись"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": './assets/cat.png',
+        "rightImage": null,
+        "speaker": 'Яша(радостно)',
+        "text": "Прошу прощения за столь необычное перемещение, но обстоятельства обязывают..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": './assets/cat.png',
+        "rightImage": null,
+        "speaker": 'Яша(радостно)',
+        "text": "Да и хотел увидеть старого друга"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": " И он рассказал мне свою историю."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Что он сражался с Королем демонов, их бой был очень долгим и изматывающим, но в конечном итоге,он смог заточить Короля демонов в темницу."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Но армия демонов хотела схватить его и, он используя свои последние силы, переместился в наш мир, в мой двор..."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Так вот, это было мое первое знакомство с магией."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "За мою помощь, он обучил меня использовать магию и владеть оружием"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": "./assets/lep.png",
+        "rightImage": null,
+        "speaker": "Леприкон",
+        "text": "А что случилось потом? Просто ты не рассказывал мне о нем"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "Мы часто охотились вместе на демонов... Он поведал мне много различных магических тайн. Но проблема в том, что в этом мире время течет иначе, чем в моем."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": './assets/s1_mainlook.png',
+        "speaker": 'Бариот',
+        "text": "И когда я вернулся в свои мир, здесь прошло несколько десятков лет. И по возвращению, Яша куда-то пропал... "
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Наконец, после многочасового пути, они добрались до древнего храма, затерянного среди дремучих зарослей. Храм выглядел старым и заброшенным, его стены покрывались мхом, а вход закрывали массивные двери, из которых с давних времен никто не выходил."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Приближаясь к храму, Бариот начал ощущать странное чувство. Он начинал узнавать это место. Это то место, куда будучи ребенком, он переместился и, впервые увидел кота-монаха."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Осознавая, что или кого он может встретить в храме, сердце его забилось с бешеной скоростью."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Наконец, они стояли перед входом в храм. Мешкая сделать первый шаг, они переглянулись."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Как вдруг двери храма раскрылись и..."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "ГЛАВА 6 В РАЗРАБОТКЕ"
     },
 ]
     
@@ -591,7 +1479,7 @@ let main = document.querySelector('.background')
 
 const start = function() {
 
-    var i = 39
+    var i = 80
     render = `
             <div class="dialog-box" id="dialogBox">
                 
