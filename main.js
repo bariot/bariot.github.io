@@ -1466,9 +1466,577 @@ var plot = [
         "leftImage": null,
         "rightImage": null,
         "speaker": null,
-        "text": "ГЛАВА 6 В РАЗРАБОТКЕ"
+        "text": "ГЛАВА 6"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "ДОЛГОЖДАННАЯ ВСТРЕЧА..."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Когда массивные двери храма распахнулись, из темного пространства начал медленно вырисовываться силуэт, словно тень, которая плавно проникает сквозь мрак."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Сердце Бариота забилось сильнее, неясное чувство охватывало его, словно предчувствие чего-то важного и необъяснимого."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "В темноте медленно начал проявляться силуэт и только тогда, когда тень приобрела конкретные очертания, Бариот узнал "
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Это был Яша. Его дыхание застыло, а сердце замерло на мгновение"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Рад видеть тебя снова, мой друг"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "Яша... Это невероятно увидеть тебя здесь снова после всех этих лет."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Да, Бариот, время течет по-разному для нас, но для меня ты все еще тот же мальчик, которого я встретил столько лет назад."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "Но куда ты пропал в прошлый раз? И почему от тебя не было никаких вестей?"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Это долгая история. Я и поведаю ее тебе."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Ведь часть этой истории и привела тебя сюда, не так ли?"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "Да. Мы нашли амулет, который, кажется, связан с демонами. Мы надеемся, что ты сможешь нам помочь разгадать его тайны."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "О, отлично! Я не сомневался, что ты сможешь отыскать его?"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "Скорее это просто случайность..."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "Мы случайно наткнулись на него в одной деревушке..."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "О, знай, что случайности не случайны"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Пойдемте внутрь и я поведаю вам все что знаю"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Бариот, после всех этих лет нам есть о чем поговорить, но сначала давайте сядем и насладимся приятным обедом."
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "Согласен"
+    },
+    {
+        "bgColor": "./assets/road.png",
+        "leftImage": "./assets/lep.png",
+        "rightImage": null,
+        "speaker": "Лепрекон",
+        "text": "Наконец-то можно отдохнуть..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Они вошли в храм, и тут же их встретил теплый свет свечей и аромат приготовленной еды. И они сели за длинный деревянный стол, накрытый разнообразной едой"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Дворецкий налил каждому по стакану странного напитка и Яша произнес тост:"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "За столь долгожданную встречу и за успех предстоящего дела..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Все разом поднесли бокалы ко рту и сделали глоток."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот(поперхнувшись)",
+        "text": "Ффу, что это..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Вино из валерьянки. Очень вкусная вещь. "
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "После того как я попробовал ее в вашем мире... Я теперь не могу оторваться от нее. От валерьянки и..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Яша достал из своего халата длинную трубку и закурил. "
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "И от мяты. Это просто божественная вещь."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Густой дым заполнил кухню. "
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Так вернемся к делу..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Бариот, амулет, который ты нашел, является своего рода темницей для короля демонов. Я заточил его в это амулет во время битвы с ним. Его владелец способен использовать его силу. "
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Однако для этого требуется очень сильная внутренняя энергия, чтобы подчинить себе силу короля демонов, заключенную в этом амулете. В нашем мире обычные люди не способны овладеть его мощью, но ты"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "не из этого мира. Твоя энергия отличается от энергии людей нашего мира. Ты можешь контактировать с этой энергией, но не можешь использовать ее."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Поэтому, во время наших тренировок, я использовал магическое кольцо, в котором была часть моей души. Таким образом, ты смог овладеть магией нашего мира и подчинить себе часть энергии короля демонов."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Именно поэтому ты так легко можешь взаимодействовать с амулетом."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Потом со временем, от частого использования амулета, энергия короля демонов наполняла тебя. И ты уже без моего кольца мог сам использовать всю мощь амулета. "
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Другими словами, в тебе уже есть часть души короля демонов..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "Почему я не помню всего этого?"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "С помощью заклинания я стер эти воспоминания. Я знал, что армия демонов захочет вернуть своего короля. И чем меньше людей знают этот секрет, тем лучше"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "И мне казалось, что лучше, чтобы и ты этого не знал"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "Но как они нашли меня в моем мире? И как вообще смогли в него попасть?"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "Ведь только у тебя есть подобные знания и возможности"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/lep.png",
+        "rightImage": null,
+        "speaker": "Лепрекон",
+        "text": "Ну и лепреконы..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/lep.png",
+        "rightImage": null,
+        "speaker": "Лепрекон",
+        "text": "Но лепреконы не будут помогать демонам"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Да, это так. Лепреконы здесь не при чем. Возможно, это моя вина..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "В каком смысле?"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Когда я искал их главное логово, меня схватили и забрали у меня один телепортационный свиток. Хорошо, что он был одноразовым."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Но это вылазка была весьма продуктивной..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Я узнал, что существует другой амулет, который, наоборот, позволяет освобождать душу из другого амулета"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "И плохая новость, что этот амулет уже у них"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "А нашли они тебя в твоем мире из-за того, что эти два амулета связаны. И амулет, который освобождает душу, всегда тянется к душе, заточенную в другом амулете. А так как в тебе течет часть души короля демонов... Тебя было не сложно отыскать"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "Это совсем нехорошо. Из-за того что они наведались в мой мир, они забрали Настю"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Настю?!"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/lep.png",
+        "rightImage": null,
+        "speaker": "Лепрекон",
+        "text": "Это девушка, в которую он влюб..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "Она в опасности и ее нужно срочно вытаскивать..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша(мурча)",
+        "text": "Мррр, любовные истории? Это я люблю..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша(мурча)",
+        "text": "Не переживай ты так. Если она не из этого мира, то она очень ценна для них и для предстоящего ритуала"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Если, конечно, мы не помешаем им"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Им нужен сильный сосуд, чтобы поместить душу короля демонов..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Для этого она идеально подходит"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Либо кто очень сильный из этого..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "И кто же?"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Я... Я сражался с королем демонов. И наши силы были равны, так что я вполне мог бы обуздать его энергию"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Но надеюсь этого не произойдет"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "Тогда нужно обсудить план нападения?.."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Не спеши. Сейчас преимущество у нас. Пока что демоны не знают, что мы нашли главный амулет, а без него они ничего не смогут сделать..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Сегодня уже не разумно будет обсуждать такие серьезные вещи"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "Конечно. Ты столько уже выпил вина из валерьянки, что еле сидишь"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Даже в таком состоянии, вполне смогу надрать тебе зад"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Надеюсь, ты не забыл все мои тренировки?"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "Нет конечно, но мои техники за столь долгое время весьма улучшились. Так что я вполне уже могу превзойти своего учителя."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "ХА-ХА. Не сомневаюсь"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Они еще долго сидели, предаваясь был воспоминаниям..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "НЕКОТОРОЕ ВРЕМЯ СПУСТЯ..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Яша, в ходе яростного и бурного рассказа из своего прошлого взобравшись на стол, резко падает. Его ноги подкосились от сильного алкоголя и он с грохотом плюхнулся на пол."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "Эхх, я не знал, что коты могут так напиваться?"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "(что-то не понятное) Ящеворялк..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "Давай я отведу тебя в кровать."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Бариот взял своего друга под руки и повел в его спальню. Когда они пришли, Бариот закинул тело огромного кота на кровать и собрался уходить как вдруг..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": " И кто же эта прекрасная Анастасия, что не дает тебе покоя? Пока я в таком состояни, можешь рассказать мне. Может дам тебе мудрый совет. Я ведь все-таки твои учитель, как никак"
     },
 ]
+
     
     
 
@@ -1479,7 +2047,7 @@ let main = document.querySelector('.background')
 
 const start = function() {
 
-    var i = 80
+    var i = 205
     render = `
             <div class="dialog-box" id="dialogBox">
                 
