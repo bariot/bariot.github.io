@@ -1476,133 +1476,140 @@ var plot = [
         "text": "ДОЛГОЖДАННАЯ ВСТРЕЧА..."
     },
     {
-        "bgColor": "./assets/road.png",
+        "bgColor": "./assets/doorch.jpg",
         "leftImage": null,
         "rightImage": null,
         "speaker": null,
         "text": "Когда массивные двери храма распахнулись, из темного пространства начал медленно вырисовываться силуэт, словно тень, которая плавно проникает сквозь мрак."
     },
     {
-        "bgColor": "./assets/road.png",
+        "bgColor": "./assets/doorch.jpg",
         "leftImage": null,
         "rightImage": null,
         "speaker": null,
         "text": "Сердце Бариота забилось сильнее, неясное чувство охватывало его, словно предчувствие чего-то важного и необъяснимого."
     },
     {
-        "bgColor": "./assets/road.png",
+        "bgColor": "./assets/doorch.jpg",
         "leftImage": null,
         "rightImage": null,
         "speaker": null,
         "text": "В темноте медленно начал проявляться силуэт и только тогда, когда тень приобрела конкретные очертания, Бариот узнал "
     },
     {
-        "bgColor": "./assets/road.png",
+        "bgColor": "./assets/doorch.jpg",
         "leftImage": null,
         "rightImage": null,
         "speaker": null,
-        "text": "Это был Яша. Его дыхание застыло, а сердце замерло на мгновение"
+        "text": "Это был Яша."
     },
     {
-        "bgColor": "./assets/road.png",
+        "bgColor": "./assets/doorch.jpg",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Дыхание Бариота застыло, а сердце замерло на мгновение."
+    },
+    {
+        "bgColor": "./assets/doorch.jpg",
         "leftImage": "./assets/cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "Рад видеть тебя снова, мой друг"
     },
     {
-        "bgColor": "./assets/road.png",
+        "bgColor": "./assets/doorch.jpg",
         "leftImage": "./assets/s1_mainlook.png",
         "rightImage": null,
         "speaker": "Бариот",
         "text": "Яша... Это невероятно увидеть тебя здесь снова после всех этих лет."
     },
     {
-        "bgColor": "./assets/road.png",
+        "bgColor": "./assets/doorch.jpg",
         "leftImage": "./assets/cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "Да, Бариот, время течет по-разному для нас, но для меня ты все еще тот же мальчик, которого я встретил столько лет назад."
     },
     {
-        "bgColor": "./assets/road.png",
+        "bgColor": "./assets/doorch.jpg",
         "leftImage": "./assets/s1_mainlook.png",
         "rightImage": null,
         "speaker": "Бариот",
         "text": "Но куда ты пропал в прошлый раз? И почему от тебя не было никаких вестей?"
     },
     {
-        "bgColor": "./assets/road.png",
+        "bgColor": "./assets/doorch.jpg",
         "leftImage": "./assets/cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "Это долгая история. Я и поведаю ее тебе."
     },
     {
-        "bgColor": "./assets/road.png",
+        "bgColor": "./assets/doorch.jpg",
         "leftImage": "./assets/cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "Ведь часть этой истории и привела тебя сюда, не так ли?"
     },
     {
-        "bgColor": "./assets/road.png",
+        "bgColor": "./assets/doorch.jpg",
         "leftImage": "./assets/s1_mainlook.png",
         "rightImage": null,
         "speaker": "Бариот",
         "text": "Да. Мы нашли амулет, который, кажется, связан с демонами. Мы надеемся, что ты сможешь нам помочь разгадать его тайны."
     },
     {
-        "bgColor": "./assets/road.png",
+        "bgColor": "./assets/doorch.jpg",
         "leftImage": "./assets/cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "О, отлично! Я не сомневался, что ты сможешь отыскать его?"
     },
     {
-        "bgColor": "./assets/road.png",
+        "bgColor": "./assets/doorch.jpg",
         "leftImage": "./assets/s1_mainlook.png",
         "rightImage": null,
         "speaker": "Бариот",
         "text": "Скорее это просто случайность..."
     },
     {
-        "bgColor": "./assets/road.png",
+        "bgColor": "./assets/doorch.jpg",
         "leftImage": "./assets/s1_mainlook.png",
         "rightImage": null,
         "speaker": "Бариот",
         "text": "Мы случайно наткнулись на него в одной деревушке..."
     },
     {
-        "bgColor": "./assets/road.png",
+        "bgColor": "./assets/doorch.jpg",
         "leftImage": "./assets/cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "О, знай, что случайности не случайны"
     },
     {
-        "bgColor": "./assets/road.png",
+        "bgColor": "./assets/doorch.jpg",
         "leftImage": "./assets/cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "Пойдемте внутрь и я поведаю вам все что знаю"
     },
     {
-        "bgColor": "./assets/road.png",
+        "bgColor": "./assets/doorch.jpg",
         "leftImage": "./assets/cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "Бариот, после всех этих лет нам есть о чем поговорить, но сначала давайте сядем и насладимся приятным обедом."
     },
     {
-        "bgColor": "./assets/road.png",
+        "bgColor": "./assets/doorch.jpg",
         "leftImage": "./assets/s1_mainlook.png",
         "rightImage": null,
         "speaker": "Бариот",
         "text": "Согласен"
     },
     {
-        "bgColor": "./assets/road.png",
+        "bgColor": "./assets/doorch.jpg",
         "leftImage": "./assets/lep.png",
         "rightImage": null,
         "speaker": "Лепрекон",
@@ -1613,7 +1620,7 @@ var plot = [
         "leftImage": null,
         "rightImage": null,
         "speaker": null,
-        "text": "Они вошли в храм, и тут же их встретил теплый свет свечей и аромат приготовленной еды. И они сели за длинный деревянный стол, накрытый разнообразной едой"
+        "text": "Они вошли в храм, и тут же их встретил теплый свет свечей и аромат приготовленной еды. Они сели за длинный деревянный стол, накрытый разнообразной едой"
     },
     {
         "bgColor": "./assets/catch.png",
@@ -1666,7 +1673,7 @@ var plot = [
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "И от мяты. Это просто божественная вещь."
@@ -1676,60 +1683,74 @@ var plot = [
         "leftImage": null,
         "rightImage": null,
         "speaker": null,
-        "text": "Густой дым заполнил кухню. "
+        "text": "Густой дым заполнил кухню. От удовольствия шерсть на его лице вздыбилась"
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "Так вернемся к делу..."
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
-        "text": "Бариот, амулет, который ты нашел, является своего рода темницей для короля демонов. Я заточил его в это амулет во время битвы с ним. Его владелец способен использовать его силу. "
+        "text": "Бариот, амулет, который ты нашел, является своего рода темницей для короля демонов. Я заточил его во время битвы с ним."
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
-        "text": "Однако для этого требуется очень сильная внутренняя энергия, чтобы подчинить себе силу короля демонов, заключенную в этом амулете. В нашем мире обычные люди не способны овладеть его мощью, но ты"
+        "text": "И тот, кто владеет этим амулетом, способен использовать его силу."
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
-        "text": "не из этого мира. Твоя энергия отличается от энергии людей нашего мира. Ты можешь контактировать с этой энергией, но не можешь использовать ее."
+        "text": "Но владелец должен обладать силой равной силе самого королдя демонов..."
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "В нашем мире обычные люди не способны овладеть его мощью, но ты..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/smoke_cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Ты не из этого мира. И твоя энергия отличается. Ты можешь контактировать с амулетом, не опасаясь, но также ты не можешь и использовать ее."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "Поэтому, во время наших тренировок, я использовал магическое кольцо, в котором была часть моей души. Таким образом, ты смог овладеть магией нашего мира и подчинить себе часть энергии короля демонов."
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "Именно поэтому ты так легко можешь взаимодействовать с амулетом."
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
-        "text": "Потом со временем, от частого использования амулета, энергия короля демонов наполняла тебя. И ты уже без моего кольца мог сам использовать всю мощь амулета. "
+        "text": "И со временем, от частого использования амулета, энергия короля демонов смешалась с твоей. И ты уже мог сам использовать всю мощь амулета. "
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "Другими словами, в тебе уже есть часть души короля демонов..."
@@ -1743,14 +1764,14 @@ var plot = [
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "С помощью заклинания я стер эти воспоминания. Я знал, что армия демонов захочет вернуть своего короля. И чем меньше людей знают этот секрет, тем лучше"
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "И мне казалось, что лучше, чтобы и ты этого не знал"
@@ -1774,7 +1795,7 @@ var plot = [
         "leftImage": "./assets/lep.png",
         "rightImage": null,
         "speaker": "Лепрекон",
-        "text": "Ну и лепреконы..."
+        "text": "Ну и у лепреконов..."
     },
     {
         "bgColor": "./assets/catch.png",
@@ -1785,7 +1806,7 @@ var plot = [
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "Да, это так. Лепреконы здесь не при чем. Возможно, это моя вина..."
@@ -1799,38 +1820,38 @@ var plot = [
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
-        "text": "Когда я искал их главное логово, меня схватили и забрали у меня один телепортационный свиток. Хорошо, что он был одноразовым."
+        "text": "Когда я искал их главное логово, меня схватили. Они забрали у меня один телепортационный свиток. Хорошо, что он был одноразовым."
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "Но это вылазка была весьма продуктивной..."
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
-        "text": "Я узнал, что существует другой амулет, который, наоборот, позволяет освобождать душу из другого амулета"
+        "text": "Я узнал, что существует еще один амулет. Он позволяет освобождать душу из другого амулета"
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "И плохая новость, что этот амулет уже у них"
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
-        "text": "А нашли они тебя в твоем мире из-за того, что эти два амулета связаны. И амулет, который освобождает душу, всегда тянется к душе, заточенную в другом амулете. А так как в тебе течет часть души короля демонов... Тебя было не сложно отыскать"
+        "text": "А нашли они тебя в твоем мире из-за того, что эти два амулета связаны. Они постоянно тянутся друг к другу. А так как в тебе течет часть души короля демонов... Тебя было не сложно отыскать"
     },
     {
         "bgColor": "./assets/catch.png",
@@ -1841,7 +1862,7 @@ var plot = [
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "Настю?!"
@@ -1862,45 +1883,45 @@ var plot = [
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша(мурча)",
         "text": "Мррр, любовные истории? Это я люблю..."
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша(мурча)",
         "text": "Не переживай ты так. Если она не из этого мира, то она очень ценна для них и для предстоящего ритуала"
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "Если, конечно, мы не помешаем им"
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "Им нужен сильный сосуд, чтобы поместить душу короля демонов..."
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "Для этого она идеально подходит"
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
-        "text": "Либо кто очень сильный из этого..."
+        "text": "Либо кто-то очень сильный из этого..."
     },
     {
         "bgColor": "./assets/catch.png",
@@ -1911,14 +1932,14 @@ var plot = [
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "Я... Я сражался с королем демонов. И наши силы были равны, так что я вполне мог бы обуздать его энергию"
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "Но надеюсь этого не произойдет"
@@ -1932,14 +1953,14 @@ var plot = [
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "Не спеши. Сейчас преимущество у нас. Пока что демоны не знают, что мы нашли главный амулет, а без него они ничего не смогут сделать..."
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "Сегодня уже не разумно будет обсуждать такие серьезные вещи"
@@ -1953,14 +1974,14 @@ var plot = [
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "Даже в таком состоянии, вполне смогу надрать тебе зад"
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "Надеюсь, ты не забыл все мои тренировки?"
@@ -1974,7 +1995,7 @@ var plot = [
     },
     {
         "bgColor": "./assets/catch.png",
-        "leftImage": "./assets/cat.png",
+        "leftImage": "./assets/smoke_cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
         "text": "ХА-ХА. Не сомневаюсь"
@@ -1984,7 +2005,7 @@ var plot = [
         "leftImage": null,
         "rightImage": null,
         "speaker": null,
-        "text": "Они еще долго сидели, предаваясь был воспоминаниям..."
+        "text": "Они еще долго сидели, предаваясь былым воспоминаниям..."
     },
     {
         "bgColor": "./assets/catch.png",
@@ -2005,14 +2026,14 @@ var plot = [
         "leftImage": "./assets/s1_mainlook.png",
         "rightImage": null,
         "speaker": "Бариот",
-        "text": "Эхх, я не знал, что коты могут так напиваться?"
+        "text": "Эхх, я и не знал, что коты могут так напиваться?"
     },
     {
         "bgColor": "./assets/catch.png",
         "leftImage": "./assets/cat.png",
         "rightImage": null,
         "speaker": "кот-монах Яша",
-        "text": "(что-то не понятное) Ящеворялк..."
+        "text": "(что-то непонятное) Ящеворялк..."
     },
     {
         "bgColor": "./assets/catch.png",
@@ -2032,18 +2053,905 @@ var plot = [
         "bgColor": "./assets/catch.png",
         "leftImage": "./assets/cat.png",
         "rightImage": null,
-        "speaker": "кот-монах Яша",
-        "text": " И кто же эта прекрасная Анастасия, что не дает тебе покоя? Пока я в таком состояни, можешь рассказать мне. Может дам тебе мудрый совет. Я ведь все-таки твои учитель, как никак"
+        "speaker": "кот-монах Яша(пьяно помуркивая)",
+        "text": "Так значит ее зовут Настя? Твою прекрасную подругу. Можешь поделиться со мной, я ведь все-таки твой учитель."
     },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот(вздыхая)",
+        "text": "Ну для меня она стала куда больше..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Хэ-хэ. Это видно. Видно как горят твои глаза при разговоре о ней и... еще это твоя дурацкая улыбка"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот(улыбаясь)",
+        "text": "Никогда бы не подумал, что буду обсуждать отношения с котом."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Ну жизнь удивительная штука. В ней могут происходить вещи, которые и представить не мог."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "Это верно."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "И ты уже признался ей в своих чувствах или так и будешь оттягивать момент как размазня?"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "А ты все такой же - весьма дерзкий в словах. Ты никогда не умел подбирать слова."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Хх"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "Признался, но..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "'НО', только не говори, что ты сожалеешь?"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Неужели ты забыл, чему я учил тебя?"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Никогда не сожалеть о своих действиях..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "Я помню"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "Но после того момента, мне грустно, что пропала атмосфера того теплого общения, которое было..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "Что уже не можем также классно проводить время."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Ну такова цена"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "И что в ней такого особенного?"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "Сложно сказать"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Ну что, ты сам не разобрался?"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "Нет, Просто когда я вижу, что она счастлива, то и я становлюсь счастливее. Когда она рядом, мне просто хочется улыбаться"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "Именно поэтому я хочу сделать счастливой ее. Ведь ее улыбка для меня многое значит."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Понял тебя. Вижу, что она тебе не безразлична. Главное не испорти все."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот",
+        "text": "Постараюсь, Но последнее время из-за эмоциональной слепоты, я многое чего портил. Много сказал, чего не требовалось... но все, наверное, потому, что в глубине души боюсь потерять ее."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Не нужно бояться. Просто дай ей время, и пусть все идет своим чередом. Попробуй снова стать тем, с кем она захотела дружить"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/cat.png",
+        "rightImage": null,
+        "speaker": "кот-монах Яша",
+        "text": "Помни, выбирая дорогу, чтоб уйти от судьбы, мы именно там ее и находим"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Договорив эту фразу, он уснул самым крепким сном. Бариот тихо вышел из комнаты, закрыв за собой дверь"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот(мысленно)",
+        "text": "Если бы это было так просто"
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Пройдя по длинному коридору, он пришел в свою комнату."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Мысли все крутились в его голове. Но последня мысль, которая не давала ему покоя была..."
+    },
+    {
+        "bgColor": "./assets/catch.png",
+        "leftImage": "./assets/s1_mainlook.png",
+        "rightImage": null,
+        "speaker": "Бариот(мысленно)",
+        "text": "Как ты там, Настя?"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "ГЛАВА 7"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "НЕКОТОРОЕ ВРЕМЯ СПУСТЯ..."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/robber.png",
+        "rightImage": null,
+        "speaker": "Разбойник",
+        "text": "Вот, тебе еда. Не думай, что мы слишком хорошие, чтобы кормить вас, пленных."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Разбойник входит в темницу, неся небольшую миску с едой. Настя, сидя на полу, мрачно смотрит на него."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Но как только он протягивает ей миску, она резко вскакивает, с силой выхватывает миску и бросает в его сторону."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/an2.png",
+        "rightImage": null,
+        "speaker": "Настя",
+        "text": "Что за унижение! Мы не скотина, чтобы кормиться вашими остатками!"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/robber.png",
+        "rightImage": null,
+        "speaker": "Разбойник",
+        "text": "Эй. Вот твоя еда, так что будь благодарна за то, что получаешь."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/an2.png",
+        "rightImage": null,
+        "speaker": "Настя",
+        "text": "Благодарна? За что? За то, что вы нас похитили и теперь держите здесь, как зверей в клетке?"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/robber.png",
+        "rightImage": null,
+        "speaker": "Разбойник",
+        "text": "Ты слишком дерзкая. Скажи спасибо, что нам запретили тебя трогать. И не пытайся уйти отсюда."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/robber.png",
+        "rightImage": null,
+        "speaker": "Разбойник",
+        "text": " Демоны запретили нам трогать вас, пока не будет дан приказ."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/an2.png",
+        "rightImage": null,
+        "speaker": "Настя",
+        "text": "Демоны? Кто они такие? И зачем они нас держат?"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/robber.png",
+        "rightImage": null,
+        "speaker": "Разбойник",
+        "text": "Ты лучше не спрашивай, девчонка. Просто сиди здесь и не высовывайся."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Разбойник, отшатнувшись, бурчит что-то нечленораздельное и выходит"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Как только разбойник вышел из камеры, Настя замечает что-то блестящее на полу"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/an2.png",
+        "rightImage": null,
+        "speaker": "Настя(мысленно)",
+        "text": "Что это?"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Подойдя поближе, Настя обнаруживает, что это кинжал"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/an2.png",
+        "rightImage": null,
+        "speaker": "Настя(мысленно)",
+        "text": "Наверное, он выпал, когда я швырнула в него миску..."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/an2.png",
+        "rightImage": null,
+        "speaker": "Настя(поднимая кинжал)",
+        "text": "Тимми, Джейн, подойдите сюда. У меня есть план."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Тимми и Джейн приближаются к Насте, с любопытством смотря на кинжал."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/an2.png",
+        "rightImage": null,
+        "speaker": "Настя",
+        "text": "Мы должны использовать этот кинжал, чтобы выбраться из этого места. Если мы сможем разрубить оковы, то у нас будет шанс убежать, пока разбойники будут заняты."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/child.png",
+        "rightImage": null,
+        "speaker": "Тимми",
+        "text": "Но как мы это сделаем? Разбойники не дадут нам просто уйти"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/an2.png",
+        "rightImage": null,
+        "speaker": "Настя",
+        "text": "Мы найдём способ. У меня есть несколько идей."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Настя освобождается от оков и идёт к решётке, чтобы попытаться её открыть."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Настя, сосредоточенно работая над решёткой, чувствует, как её сердце бьётся быстрее от напряжения. Тимми и Джейн тихо подходят к Насте, с нетерпением ожидая её следующих действий."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/child.png",
+        "rightImage": null,
+        "speaker": "Тимми (шепотом)",
+        "text": "Ты уверена, что сможешь это сделать, Настя?"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/an2.png",
+        "rightImage": null,
+        "speaker": "Настя (устало, но решительно)",
+        "text": "Должна. Мы не можем оставаться здесь. Если у меня получится открыть эту решётку, мы выберемся отсюда вместе. Если нет... Ну, я не дам им нас заставить сдаться без борьбы."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/child.png",
+        "rightImage": null,
+        "speaker": "Джейн (шепотом)",
+        "text": "А если разбойники услышат?"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/an2.png",
+        "rightImage": null,
+        "speaker": "Настя (успокаивающе)",
+        "text": "Тогда нам придётся быть готовыми к борьбе. Мы сделаем всё, что в наших силах. Держитесь за меня, я попытаюсь открыть эту решётку."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Под напряжённым ожиданием тишины, они вдруг слышат приближающиеся шаги. Звук становится все более отчетливым, каждый удар ноги кажется громом"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "С тихим скрипом решетка медленно открывается."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": " Настя, с беспокойством в глазах, мотивирует Тимми и Джейн держаться рядом. Когда решетка наконец открывается достаточно широко, чтобы они могли проскользнуть, время замирает на мгновение"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "И они выходят из темницы, попадая в длинные запутанные подземные пещеры"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Настя хватает детей под руки и, они начинают тихо пробираться к выходу."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Пройдя несколько метров, Настя видит тихую комнату, наполненную сумеречным светом, который проникает сквозь дырявые стены."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Она обнаруживает несколько одеяний и решает переодеться, чтобы быть менее приметной при побеге..."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/an3.png",
+        "rightImage": null,
+        "speaker": "Настя",
+        "text": "Так гораздо лучше..."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/an3.png",
+        "rightImage": null,
+        "speaker": "Настя",
+        "text": "Теперь и туфли подходят к моему наряду"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Настя, Тимми и Джейн бесшумно прокрадываются сквозь лабиринт пещер и наконец оказываются на поверхности"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Каждый шорох, каждое движение кажется громкими в их напряженных ушах."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Вдруг Настя замечает в далеке небольшую щель в заборе"
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": "./assets/an3.png",
+        "rightImage": null,
+        "speaker": "Настя",
+        "text": "Вон наш путь отсюда. Нужно незаметно пробраться. Держитесь рядом"
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Они медленно продвигаются вперед, вся их надежда на то, чтобы не попасться на глаза разбойникам, которые спят в своих лагерях. Вдалеке раздаются приглушенные шорохи и непонятные звуки, заставляя Настю замирать на месте."
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Постепенно приближаясь к забору, они ощущают, как сердца их бьются сильнее, а каждый шаг кажется вечностью."
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Вот они уже рядом с дырой в заборе. Настя осторожно выглядывает из-за угла, проверяя, нет ли наблюдающих разбойников."
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "С каждой секундой напряжение возрастает. Вот-вот они смогут выбраться на свободу."
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Когда они подходят к дыре, Настя тихо направляет Тимми и Джейн вперёд, стараясь убедиться, что они движутся как можно быстрее и бесшумнее."
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": "./assets/an3.png",
+        "rightImage": null,
+        "speaker": "Настя",
+        "text": "Давайте, Тимми, Джейн, идите первыми, а я за вами"
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Настя вздыхает облегчённо, когда они, наконец, успешно проникают сквозь дыру"
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Теперь приходит её очередь, но внезапно в неё вцепляются сильные руки демона, который вернулся в лагерь."
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": "./assets/an3.png",
+        "rightImage": null,
+        "speaker": "Настя",
+        "text": "Бегите, Тимми! Джейн! Бегите как можно дальше! Не оглядывайтесь!"
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": "./assets/demon2.png",
+        "rightImage": null,
+        "speaker": "Демон",
+        "text": "Куда ты собралась, глупая девчонка?"
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Он сжимает Настю за руку с такой силой, что она чуть не закричала от боли."
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Демон волочит Настю к центру лагеря, где суетится множество разбойников. Он сажает её в повозку с грубым рывком."
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": "./assets/demon2.png",
+        "rightImage": null,
+        "speaker": "Демон",
+        "text": "Бесполезные людишки, куда вы смотрите?"
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": "./assets/demon2.png",
+        "rightImage": null,
+        "speaker": "Демон",
+        "text": "Запрягайте лошадей, мы выдвигаемся"
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": "./assets/an3.png",
+        "rightImage": null,
+        "speaker": "Настя",
+        "text": "Что вы хотите от меня?"
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": "./assets/demon2.png",
+        "rightImage": null,
+        "speaker": "Демон",
+        "text": "Ты принесешь нам много пользы, девочка. Ты ключ к нашей победе."
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": "./assets/an3.png",
+        "rightImage": null,
+        "speaker": "Настя",
+        "text": "Я никогда не помогу вам!"
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": "./assets/demon2.png",
+        "rightImage": null,
+        "speaker": "Демон",
+        "text": "У тебя нет выбора. И нам не нужно твое согласие"
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Разбойники в страхе засуетились и через несколько минут все были готовы выдвигаться"
+    },
+    {
+        "bgColor": "./assets/camp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Повозка трогается и они напрвляются в логово демонов."
+    },
+    {
+        "bgColor": "./assets/swamp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Путь их проходил через мрачное и зловонное болото, где густой туман медленно поднимается над водой. Зловонный запах гнили и тухлой воды проникает в каждый уголок, заставляя дыхание затрудненным."
+    },
+    {
+        "bgColor": "./assets/swamp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Этот запах смешивается с проклятым и отвратительным запахом разбойников"
+    },
+    {
+        "bgColor": "./assets/swamp.png",
+        "leftImage": "./assets/an3.png",
+        "rightImage": null,
+        "speaker": "Настя",
+        "text": "Гребанные разбойники!"
+    },
+    {
+        "bgColor": "./assets/swamp.png",
+        "leftImage": "./assets/an3.png",
+        "rightImage": null,
+        "speaker": "Настя",
+        "text": "Куда вы меня везете? Что вы собираетесь делать?"
+    },
+    {
+        "bgColor": "./assets/swamp.png",
+        "leftImage": "./assets/demon2.png",
+        "rightImage": null,
+        "speaker": "Демон",
+        "text": "Это не твое дело. Ты просто будешь делать то, что тебе скажут. Не волнуйся, скоро ты все узнаешь"
+    },
+    {
+        "bgColor": "./assets/swamp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Каждый шаг по топкому грунту вызывает отвращение"
+    },
+    {
+        "bgColor": "./assets/swamp.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Через некоторое время они прибывают в логово демонов."
+    },
+    {
+        "bgColor": "./assets/campd.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Тёмные башни поднимались к небу, окутанные плотными тучами, словно пронизанные мраком. Стены логова казались неприступными, словно защищённые самой тьмой."
+    },
+    {
+        "bgColor": "./assets/campd.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Вокруг царила напряжённая атмосфера, а в воздухе плыл неприятный запах гнили и разложения."
+    },
+    {
+        "bgColor": "./assets/campd.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "повозка медленно подъезжала к воротам логова."
+    },
+    {
+        "bgColor": "./assets/campd.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Два грозных демона медленно подходят к повозке"
+    },
+    {
+        "bgColor": "./assets/campd.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Один из них протягивает руку к Насте"
+    },
+    {
+        "bgColor": "./assets/campd.png",
+        "leftImage": "./assets/demon2.png",
+        "rightImage": null,
+        "speaker": "Демон",
+        "text": "Ты - наша добыча сегодня, человек."
+    },
+    {
+        "bgColor": "./assets/campd.png",
+        "leftImage": "./assets/an3.png",
+        "rightImage": null,
+        "speaker": "Настя",
+        "text": "Я не ваша игрушка! Отпустите меня!"
+    },
+    {
+        "bgColor": "./assets/campd.png",
+        "leftImage": "./assets/demon2.png",
+        "rightImage": null,
+        "speaker": "Демон",
+        "text": "Сопротивляться не имеет смысла"
+    },
+    {
+        "bgColor": "./assets/campd.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "С этими словами демоны схватывают Настю и вытаскивают ее из повозки, не обращая внимания на ее протесты и сопротивление."
+    },
+    {
+        "bgColor": "./assets/campd.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "Они относят ее в темную, зловещую темницу"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "когда захлопывается тяжелая металлическая дверь, к двери подошел старый демон-колдун. Его взгляды окутаны магическими таинствами"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/dmag.png",
+        "rightImage": null,
+        "speaker": "Демон-колдун",
+        "text": "Ты, человек, не случайно оказалась здесь. Ты - ключ к великим событиям, которым предстоит развернуться."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/dmag.png",
+        "rightImage": null,
+        "speaker": "Демон-колдун",
+        "text": "Демоны нуждаются в твоей помощи, чтобы достичь своих целей в этой вечной борьбе за власть и владычество."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/an3.png",
+        "rightImage": null,
+        "speaker": "Настя",
+        "text": "Что вы хотите от меня? Почему я здесь?"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/dmag.png",
+        "rightImage": null,
+        "speaker": "Демон-колдун",
+        "text": "Ты - ключ к воссозданию мощи, потерянной много лет назад. Твоя сила может изменить ход истории."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/dmag.png",
+        "rightImage": null,
+        "speaker": "Демон-колдун",
+        "text": "Тебе выпала великая честь... стать сосудом для самого короля демонов"
+    },
+    {
+        "bgColor": "./assets/campd.png",
+        "leftImage": "./assets/an3.png",
+        "rightImage": null,
+        "speaker": "Настя",
+        "text": "Что? Я не стану вам помогать"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/dmag.png",
+        "rightImage": null,
+        "speaker": "Демон-колдун",
+        "text": "Ха-ха. Мы не станем тебя спрашивать, а помешать ты нам вряд ли сможешь."
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": "./assets/dmag.png",
+        "rightImage": null,
+        "speaker": "Демон-колдун",
+        "text": "Так что наслаждайся последними мгновениями свои жизни"
+    },
+    {
+        "bgColor": "./assets/prison.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "И демон-колдун уходит, оставляя Настю одну в темной и холодной темнице..."
+    },
+    {
+        "bgColor": "./assets/campd.png",
+        "leftImage": null,
+        "rightImage": null,
+        "speaker": null,
+        "text": "ГЛАВА 8(ФИНАЛЬНАЯ) НАХОДИТСЯ В РАЗРАБОТКЕ..."
+    },
+
 ]
 
-    
-    
 
 let main = document.querySelector('.background')
 
 
+var render_func = function(i) {
+    console.log(i)
+    main.style.backgroundImage = "url(" + plot[i]['bgColor'] + ")"
+    main.innerHTML = ''
+    main.innerHTML = `
+    ${plot[i]['leftImage'] ? "<div class='character' id='character-left' style='background-image: url(" + plot[i]['leftImage'] + ")'></div>" : ""}
 
+        
+        <div class="dialog-box" id="dialogBox">
+            <p><span class="name_span">${plot[i]['speaker'] ? plot[i]['speaker'] + ':' : ''}</span></p>
+            <p id="dialogText">${plot[i]['text']}</p>
+            <button class="ellipsis-button" id="ellipsisButton" onclick="showRemainingText()">дальше</button>
+        </div>
+
+    ${plot[i]['rightImage'] ? "<div class='character' id='character-right' style='background-image: url(" + plot[i]['rightImage'] + ")'></div>" : ""}
+`  
+}
+
+var render_text_func = function(){
+    // Обработка текста в диалоговом окне
+    let dialogTextElement = document.getElementById('dialogText');
+    let ellipsisButton = document.getElementById('ellipsisButton');
+    let remainingText = dialogTextElement.textContent.slice(150);
+
+
+
+    // Показать оставшийся текст при клике на кнопку "..."
+    window.showRemainingText = function () {
+        dialogTextElement.textContent = remainingText.slice(0, 150);
+        remainingText = remainingText.slice(150);
+
+        if (remainingText.length === 0) {
+            ellipsisButton.style.display = 'none';
+        }
+    };
+
+    // Показать следующий текст при клике на кнопку "Дальше"
+    window.showNextText = function () {
+        if (remainingText.length > 0) {
+            dialogTextElement.textContent = remainingText.slice(0, 150);
+            remainingText = remainingText.slice(150);
+
+            if (remainingText.length > 0) {
+                ellipsisButton.style.display = 'inline-block';
+            } else {
+                ellipsisButton.style.display = 'none';
+            }
+        }
+    };
+
+    // Ограничение текста в диалоговом окне на 150 символов
+    if (dialogTextElement.textContent.length > 150) {
+        ellipsisButton.style.display = 'inline-block';
+        dialogTextElement.textContent = dialogTextElement.textContent.slice(0, 150) + '...';
+    }
+}
 
 const start = function() {
 
@@ -2055,7 +2963,7 @@ const start = function() {
                 <button class="ellipsis-button" id="ellipsisButton" onclick="showRemainingText()">дальше</button>
             </div>
     `
-
+    // render_func(i)
 
 main.style.backgroundImage = "url(" + plot[i]['bgColor'] + ")"
 
@@ -2066,152 +2974,21 @@ document.querySelector('.top-next-button').onclick = () => {
 
     
     i++
-    main.style.backgroundImage = "url(" + plot[i]['bgColor'] + ")"
-    main.innerHTML = ''
-    main.innerHTML = `
-    ${plot[i]['leftImage'] ? "<div class='character' id='character-left' style='background-image: url(" + plot[i]['leftImage'] + ")'></div>" : ""}
+    render_func(i)
+    render_text_func
 
-        
-        <div class="dialog-box" id="dialogBox">
-            <p><span class="name_span">${plot[i]['speaker'] ? plot[i]['speaker'] + ':' : ''}</span></p>
-            <p id="dialogText">${plot[i]['text']}</p>
-            <button class="ellipsis-button" id="ellipsisButton" onclick="showRemainingText()">дальше</button>
-        </div>
-
-    ${plot[i]['rightImage'] ? "<div class='character' id='character-right' style='background-image: url(" + plot[i]['rightImage'] + ")'></div>" : ""}
-` 
-
-// Обработка текста в диалоговом окне
-let dialogTextElement = document.getElementById('dialogText');
-let ellipsisButton = document.getElementById('ellipsisButton');
-let remainingText = dialogTextElement.textContent.slice(150);
-
-console.log(remainingText)
-
-// Показать оставшийся текст при клике на кнопку "..."
-window.showRemainingText = function () {
-    dialogTextElement.textContent = remainingText.slice(0, 150);
-    remainingText = remainingText.slice(150);
-
-    if (remainingText.length === 0) {
-        ellipsisButton.style.display = 'none';
-    }
-};
-
-// Показать следующий текст при клике на кнопку "Дальше"
-window.showNextText = function () {
-    if (remainingText.length > 0) {
-        dialogTextElement.textContent = remainingText.slice(0, 150);
-        remainingText = remainingText.slice(150);
-
-        if (remainingText.length > 0) {
-            ellipsisButton.style.display = 'inline-block';
-        } else {
-            ellipsisButton.style.display = 'none';
-        }
-    }
-};
-
-// Ограничение текста в диалоговом окне на 150 символов
-if (dialogTextElement.textContent.length > 150) {
-    ellipsisButton.style.display = 'inline-block';
-    dialogTextElement.textContent = dialogTextElement.textContent.slice(0, 150) + '...';
-}
 }
 
 document.querySelector('.top-back-button').onclick = () => {
 
     
     i--
-    main.style.backgroundImage = "url(" + plot[i]['bgColor'] + ")"
-    main.innerHTML = ''
-    main.innerHTML = `
-    ${plot[i]['leftImage'] ? "<div class='character' id='character-left' style='background-image: url(" + plot[i]['leftImage'] + ")'></div>" : ""}
-
-        
-        <div class="dialog-box" id="dialogBox">
-            <p><span class="name_span">${plot[i]['speaker'] ? plot[i]['speaker'] + ':' : ''}</span></p>
-            <p id="dialogText">${plot[i]['text']}</p>
-            <button class="ellipsis-button" id="ellipsisButton" onclick="showRemainingText()">дальше</button>
-        </div>
-
-    ${plot[i]['rightImage'] ? "<div class='character' id='character-right' style='background-image: url(" + plot[i]['rightImage'] + ")'></div>" : ""}
-` 
-
-// Обработка текста в диалоговом окне
-let dialogTextElement = document.getElementById('dialogText');
-let ellipsisButton = document.getElementById('ellipsisButton');
-let remainingText = dialogTextElement.textContent.slice(150);
-
-console.log(remainingText)
-
-// Показать оставшийся текст при клике на кнопку "..."
-window.showRemainingText = function () {
-    dialogTextElement.textContent = remainingText.slice(0, 150);
-    remainingText = remainingText.slice(150);
-
-    if (remainingText.length === 0) {
-        ellipsisButton.style.display = 'none';
-    }
-};
-
-// Показать следующий текст при клике на кнопку "Дальше"
-window.showNextText = function () {
-    if (remainingText.length > 0) {
-        dialogTextElement.textContent = remainingText.slice(0, 150);
-        remainingText = remainingText.slice(150);
-
-        if (remainingText.length > 0) {
-            ellipsisButton.style.display = 'inline-block';
-        } else {
-            ellipsisButton.style.display = 'none';
-        }
-    }
-};
-
-// Ограничение текста в диалоговом окне на 150 символов
-if (dialogTextElement.textContent.length > 150) {
-    ellipsisButton.style.display = 'inline-block';
-    dialogTextElement.textContent = dialogTextElement.textContent.slice(0, 150) + '...';
-}
+    render_func(i)
+    render_text_func
 }
 
 
-// Обработка текста в диалоговом окне
-let dialogTextElement = document.getElementById('dialogText');
-let ellipsisButton = document.getElementById('ellipsisButton');
-let remainingText = dialogTextElement.textContent.slice(150);
+render_text_func
 
-console.log(remainingText)
-
-// Показать оставшийся текст при клике на кнопку "..."
-window.showRemainingText = function () {
-    dialogTextElement.textContent = remainingText.slice(0, 150);
-    remainingText = remainingText.slice(150);
-
-    if (remainingText.length === 0) {
-        ellipsisButton.style.display = 'none';
-    }
-};
-
-// Показать следующий текст при клике на кнопку "Дальше"
-window.showNextText = function () {
-    if (remainingText.length > 0) {
-        dialogTextElement.textContent = remainingText.slice(0, 150);
-        remainingText = remainingText.slice(150);
-
-        if (remainingText.length > 0) {
-            ellipsisButton.style.display = 'inline-block';
-        } else {
-            ellipsisButton.style.display = 'none';
-        }
-    }
-};
-
-// Ограничение текста в диалоговом окне на 150 символов
-if (dialogTextElement.textContent.length > 150) {
-    ellipsisButton.style.display = 'inline-block';
-    dialogTextElement.textContent = dialogTextElement.textContent.slice(0, 150) + '...';
-}
 
 }()
